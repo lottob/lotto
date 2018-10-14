@@ -1,0 +1,19 @@
+{
+    "name": "El Bazar del Zorro",
+    "short_name": "El Bazar del Zorro",
+    "icons": [
+        {
+            "src": "http://1.bp.blogspot.com/-h6Fb1aEA2nw/W8PB77CM_VI/AAAAAAAADUM/_TCpj2HIx4g3nMGAKi3T_NLw95zw_YflACK4BGAYYCw/s400/favicon192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "http://1.bp.blogspot.com/-prfkj9Qgk2I/W8PBxKALm2I/AAAAAAAADUE/o0tsVfgv5KYHyVjpZJzDD8fcSvY6hiFLgCK4BGAYYCw/s400/favicon256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        }
+    ],
+    "theme_color": "#ffffff",
+    "background_color": "#ffffff",
+    "display": "standalone"
+}
